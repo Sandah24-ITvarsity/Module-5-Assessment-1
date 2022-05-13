@@ -50,7 +50,7 @@ h1{
 
 #neptune-label{
     bottom: 692px;
-    left: 692px;
+    left: 1020px;
 }
 
 /*======================= URANUS ==============================*/
@@ -79,7 +79,7 @@ h1{
 
 #uranus-label{
     bottom: 620px;
-    left: 692px;
+    left: 1020px;
 }
 
 /*======================= SATURN ==============================*/
@@ -107,7 +107,7 @@ h1{
 
 #saturn-label{
     bottom: 527px;
-    left: 692px;
+    left: 1020px;
 }
 
 /*======================= JUPITER ==============================*/
@@ -134,9 +134,9 @@ h1{
     -webkit-animation: spin-left 10s linear infinite;
 }
 
-#jupiter-label{ 
+#jupiter-label{
     bottom: 417px;
-    left: 692px;
+    left: 1020px;
 }
 
 /*======================= MARS ==============================*/
@@ -165,7 +165,7 @@ h1{
 
 #mars-label{
     bottom: 343px;
-    left: 692px;
+    left: 1020px;
 }
 
 /*======================= EARTH ==============================*/
@@ -194,7 +194,7 @@ h1{
 
 #earth-label{
     bottom: 294px;
-    left: 692px;
+    left: 1020px;
 }
 
 /*==================== VENUS ====================*/
@@ -221,7 +221,7 @@ h1{
 
 #venus-label{
     bottom: 239px;
-    left: 692px;
+    left: 1020px;
 }
 
 /*==================== MERCURY ====================*/
@@ -250,7 +250,7 @@ h1{
 
 #mercury-label{
     bottom: 189px;
-    left: 692px;
+    left: 1020px;
 }
 
 /*======================= PLEASE REMOVE ==============================*/
